@@ -14,7 +14,8 @@ code of the project.
 - This site was created as a motive to represent my online resume. I used flask framework for creating this site and hosted it through `pythonanywhere`.
 - I love to learn new things and eager to create more web  applications
 
-[![Sathyan madhavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sathyanmadhavan)](https://github.com/sathyanmadhavan/github-readme-stats)
+![Sathyan madhavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sathyanmadhavan&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathyanmadhavan)](https://github.com/sathyanmadhavan/github-readme-stats)
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/@Sathyan31) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sathyan-m-03a394243/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/sathyan_madhavan/) 
 
