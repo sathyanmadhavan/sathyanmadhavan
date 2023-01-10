@@ -1,4 +1,4 @@
-<img src="C:\Users\nithy\Downloads\sathyanmadhavan.png">
+<img src="https://github.com/sathyanmadhavan/main/Sathyan Madhavan.png">
 
 ### Hi there 👋 this is Sathyan
 
