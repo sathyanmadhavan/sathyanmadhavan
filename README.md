@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sathyanmadhavan&label=Profile%20views&color=0e75b6&style=flat" alt="sathyanmadhavan" /> </p>
 
-- 🔭 I’m currently working at **Qxf2 as Software engineer, Intern**
+- I'm currently learning **React JS**
+
+- 🔭 I worked as **Quality Assurance, Intern at Qxf2 Services**
 
 - 👯 I’m looking to collaborate on **Python,HTML**
 
