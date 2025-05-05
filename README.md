@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sathyanmadhavan&label=Profile%20views&color=0e75b6&style=flat" alt="sathyanmadhavan" /> </p>
 
-- ⚡ I'm currently pursuing masters in **Computer application**
+- ⚡ I'm currently pursuing Masters in **Computer application**
 
 - 🔭 I worked as **Quality Assurance, Intern at Qxf2 Services**
 
 - 👯 I’m looking to collaborate on **Python,HTML**
 
-- 📫 How to reach me **sathyanmadhavan619@gmail.com**
+- 📫 How to reach me **sathyanmadhavan31@gmail.com**
 
 - 📄 Know about my experiences [Online_resume](http://sathyanmadhavan.pythonanywhere.com/)
 
