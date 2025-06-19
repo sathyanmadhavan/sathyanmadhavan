@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sathyanmadhavan&label=Profile%20views&color=0e75b6&style=flat" alt="sathyanmadhavan" /> </p>
 
-- ⚡ I'm currently pursuing Masters in **Computer application**
+- ⚡ I'm currently working as **ML Engineer Intern** at **Itech India Pvt ltd**
+
+- ⚡ I have completed my Master's in **Computer Application**
 
 - 🔭 I worked as **Quality Assurance, Intern at Qxf2 Services**
 
@@ -12,8 +14,6 @@
 - 📫 How to reach me **sathyanmadhavan31@gmail.com**
 
 - 📄 Know about my experiences [Online_resume](http://sathyanmadhavan.pythonanywhere.com/)
-
-- ⚡ Hobbies **I love watching Cricket**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
